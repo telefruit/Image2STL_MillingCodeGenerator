@@ -9,6 +9,10 @@
 Image2STL converts a grayscale image (or any image) into a 3-D height-field STL model and generates CNC milling G-Code for roughing and finishing passes.  
 It visualizes the resulting tool path in 3-D, simulates the machining process step-by-step and shows a material-removal preview — all inside one desktop application.
 
+**Follow & Support:**
+- 🌐 Website: [www.mycncmill.de](https://www.mycncmill.de)
+- 📱 Instagram: [@mycncmill.grbl](https://instagram.com/mycncmill.grbl)
+
 ---
 
 ---
@@ -389,6 +393,19 @@ The script does three things:
 - Transforms this `README.md` into a public variant (commercial banner, public license section, no internal "Related" or build section).
 - Copies `docs/screenshots/*` to the public repo.
 - Removes stale screenshot files in the public repo that no longer exist in the private repo.
+
+---
+
+---
+
+## Follow & Support
+
+Stay updated with the latest features and community projects:
+
+- **Website:** [www.mycncmill.de](https://www.mycncmill.de) — News, tutorials, and feature announcements
+- **Instagram:** [@mycncmill.grbl](https://instagram.com/mycncmill.grbl) — Project showcases and machine builds
+
+Your feedback and contributions help shape Image2STL. Thank you for supporting free CNC software!
 
 ---
 
